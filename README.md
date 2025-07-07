@@ -3,7 +3,7 @@ I am creating a messenger with a completely new approach to privacy and anonymit
 
 To prove the transparency and integrity of the system, I am opening the source code of both the <a href="https://github.com/karenaiwazian/messenger_client">client</a> and server parts of the application.
 
-You can also download the latest version of the Android app <a href="https://raw.githubusercontent.com/karenaiwazian/karenaiwazian/main/messenger.apk">here</a>.
+You can also download the latest version of the Android app <a href="https://raw.githubusercontent.com/karenaiwazian/karenaiwazian/main/messenger.apk" download>here</a>.
 
 <!--
 **karenaiwazian/karenaiwazian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
