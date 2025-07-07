@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, I'm Karen Aiwazian
+I am creating a messenger with a completely new approach to privacy and anonymity. Here, each user chooses their own level of secrecy. No phone number or email is required for registration.
+
+To prove the transparency and integrity of the system, I am opening the source code of both the <a href="https://github.com/karenaiwazian/messenger_client">client</a> and server parts of the application.
 
 <!--
 **karenaiwazian/karenaiwazian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
