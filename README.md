@@ -6,7 +6,7 @@ I am creating a messenger with a completely new approach to privacy and anonymit
 > To prove the transparency and integrity of the system, I am opening the source code of both the <a href="https://github.com/karenaiwazian/messenger_client">client</a> and <a href="https://github.com/karenaiwazian/Messenger_Server">server</a> parts of the application.
 
 > [!WARNING]
-> The application is under development.
+> The application is under development, but You can already find it available for <a href="https://www.rustore.ru/catalog/app/com.aiwazian.messenger">download</a> on the RuStore app market.
 
 <!--
 **karenaiwazian/karenaiwazian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
